@@ -30,8 +30,6 @@ Rizky
 
 ## Authors
 
-Contributors names and contact info
-
 Andhika Rikio (Developer, Founder, Designer)
 
 [@dhikanino](https://www.instagram.com/dhikanino)
