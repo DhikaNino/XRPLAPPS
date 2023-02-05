@@ -31,10 +31,10 @@ Rizky
 ## Pembuat dan Informasi Kontak
 
 Andhika Rikio (Developer, Founder, Designer)
-[@dhikanino](https://www.instagram.com/dhikanino)
+.ex [@dhikanino](https://www.instagram.com/dhikanino)
 
 Rizky (Designer, Helper)
-[@dhikanino](https://www.instagram.com/dhikanino)
+.ex [@rizkydhank](https://www.instagram.com/rizkydhank)
 
 ## Version History
 
