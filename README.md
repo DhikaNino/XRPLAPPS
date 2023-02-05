@@ -19,9 +19,6 @@ Aplikasi untuk absensi kelas
 
 * Masukan email dan password terlebih dahulu 
 * Tekan beri keterangan untuk hadir/izin/sakit
-```
-code blocks for commands
-```
 
 ## Bantuan
 
@@ -33,11 +30,11 @@ Rizky
 
 ## Pembuat dan Informasi Kontak
 
-ex. Andhika Rikio (Developer, Founder, Designer)
-ex. [@dhikanino](https://www.instagram.com/dhikanino)
+Andhika Rikio (Developer, Founder, Designer)
+[@dhikanino](https://www.instagram.com/dhikanino)
 
-ex. Rizky (Designer, Helper)
-ex. [@dhikanino](https://www.instagram.com/dhikanino)
+Rizky (Designer, Helper)
+[@dhikanino](https://www.instagram.com/dhikanino)
 
 ## Version History
 
