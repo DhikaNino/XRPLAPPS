@@ -28,7 +28,9 @@ Andhika Rikio
 Rizky
 ```
 
-## Pembuat dan Informasi Kontak
+## Authors
+
+Contributors names and contact info
 
 Andhika Rikio (Developer, Founder, Designer)
 
